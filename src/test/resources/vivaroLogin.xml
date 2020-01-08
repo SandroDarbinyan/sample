@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+  
+<suite name="VivaroBetting Regression" verbose="1" >
+  <test name="Login Functionality" >
+    <classes>
+       <class name="am.vivarobet.login.VivarobetLoginTest" />
+    </classes>
+  </test>
+</suite>
